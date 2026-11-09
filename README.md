@@ -1,6 +1,6 @@
 # REPOSITORIO_DOCUMENTACIONJAVA
 
-Este documento reúne mis apuntes de los primeros temas de Java, siguiendo el orden del tutorial de W3Schools. El objetivo es entender para qué sirve cada concepto y relacionarlo con un ejemplo sencillo que se pueda ejecutar, sea en un IDE dedicado o en un editor de texto como en este caso lo es Visual Studio Code.
+El proposito de este repositorio es entender para qué sirve cada concepto y relacionarlo con un ejemplo sencillo que se pueda ejecutar, sea en un IDE dedicado o en un editor de texto como en este caso lo es Visual Studio Code.
 
 
 Primero debo tener instalado un JDK y una extensión que permita trabajar con Java en Visual Studio Code, como "Extension Pack for Java". Después abro la carpeta del proyecto, se selecciona el archivo y se presiono Run sobre el método "main".
