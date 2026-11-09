@@ -77,14 +77,14 @@ Se imprime el valor guardado en "edad".
 
 ## 5. JAVA OUTPUT
 
-La salida de datos permite mostrar mensajes y resultados. "println()" escribe y pasa a la siguiente línea; "print()" escribe sin añadir automáticamente ese salto. El programa muestra "Hola mundo" y después "Estoy aprendiendo Java".
+La salida de datos permite mostrar mensajes y resultados. "println()" escribe y pasa a la siguiente línea; "print()" escribe sin añadir automáticamente ese salto. El programa muestra "Hola mundo" y después "Estoy programando en Java con Visual Studio Code :D".
 
 Código del archivo "JavaOutput.java":
 
 public class JavaOutput {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
-        System.out.print("Estoy aprendiendo Java");
+        System.out.print("Estoy programando en Java con Visual Studio Code :D");
     }
 }
 
